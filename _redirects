@@ -1,0 +1,2 @@
+# Render / Netlify SPA fallback — deep links (/shop, /admin/…) serve index.html
+/*    /index.html   200
