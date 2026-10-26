@@ -557,7 +557,12 @@
     "UPLOAD_IMAGES": "Upload Images",
     "IMAGES_HINT": "PNG, JPG files only. Multiple files allowed.",
     "BKG_REMOVE": "Remove Background",
-    "BKG_OPTIMIZE": "Optimize Image"
+    "BKG_OPTIMIZE": "Optimize Image",
+    "APPLY_TO_UPLOADED": "Apply to uploaded",
+    "APPLY_TO_THIS": "Apply to this image",
+    "SELECT_PROCESSING": "Turn on background removal or optimization",
+    "IMAGE_PROCESSED": "Image updated. Save the product to keep it.",
+    "IMAGE_PROCESS_FAILED": "Could not process this image"
   },
   "ADD_PRODUCT": "Add Product",
   "EDIT_PRODUCT": "Edit Product",
@@ -583,6 +588,7 @@
   "DEMO_ADMIN_BANNER_HINT": "One click — explore the full admin. Reset periodically; do not store real secrets here.",
   "DEMO_ADMIN_ENTER": "Enter demo admin",
   "DEMO_ADMIN_NAV": "Try Admin",
+  "DEMO_ADMIN_WAKE_TIMEOUT": "Demo API is waking up (free host). Wait ~30–60s and try again.",
   "SIGN_IN": "Sign In",
   "SIGNING_IN": "Signing in...",
   "LOGIN_SUCCESS": "Login successful!",
