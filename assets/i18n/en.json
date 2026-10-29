@@ -1116,7 +1116,7 @@
   "PRODUCT_STAGE_HINT": "The selected model rotates. Scroll on the model to zoom up to 2×; scroll elsewhere moves the page.",
   "PRODUCT_STAGE_EMPTY": "No 3D products in bags, clothing, or shoes yet. Upload a GLB on those SKUs.",
   "PRODUCT_STAGE_CATEGORIES": "Catalog categories",
-  "PRODUCT_STAGE_CATEGORIES_HINT": "Default: bags, clothing, shoes. Leave empty to use that default.",
+  "PRODUCT_STAGE_CATEGORIES_HINT": "Only products from the pressed categories stay on the stage. Pressed = included.",
   "PRODUCT_STAGE_PRODUCTS": "Pinned products (optional)",
   "PRODUCT_STAGE_PRODUCTS_HINT": "The list above is the stage. Categories only fill slots you have not chosen.",
   "PRODUCT_STAGE_LIMIT": "Max models on stage",
